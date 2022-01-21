@@ -5,7 +5,7 @@
 
 <h3>Startar a aplicação</h3>
 
-  <p>Para iniciar a aplicação, fazer clone do repositório do GitHub, abrir terminal no diretório da aplicação frontend(avaliacao-cowala/fe/) e instalar dependências do node_modules:</p>
+  <p>Para iniciar a aplicação, fazer clone do repositório do GitHub, abrir terminal no diretório da aplicação frontend(fe/) e instalar dependências do node_modules:</p>
 
   <code>yarn</code>
 
