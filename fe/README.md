@@ -2,6 +2,10 @@
 
   <p>Projeto de Frontend, para o teste de React grupo Cowala, todo feito em React, requisição com fetch e uso de styled components para o CSS.</p>
 
+<div>
+  <span><img src='https://github.com/pauloricardoma/imagens/blob/main/cowalafe1.png?raw=true' /></span>
+  <span><img src='https://github.com/pauloricardoma/imagens/blob/main/cowalafe2mob.png?raw=true' /></span>
+</div>
 
 <h3>Startar a aplicação</h3>
 
