@@ -20,9 +20,18 @@
 
   <code>npm run dev</code>
 
+<h3>Usando a API</h3>
+
+  <p>A API irá rodar em http://localhost:3001/ , todas os endpoints podem ser encontrados no arquivo routes.js</p>
+  <p>CREATE: method: 'POST', para 'http://localhost:3001/produto'</p>
+  <p>UPDATE: method: 'PUT', para 'http://localhost:3001/produto/:id'</p>
+  <p>READ-ALL: method: 'GET', para 'http://localhost:3001/produto'</p>
+  <p>READ-ONE: method: 'GET', para 'http://localhost:3001/produto/:id'</p>
+  <p>DELETE: method: 'DELETE', para 'http://localhost:3001/produto/:id'</p>
+
 <h4>Sobre mongoBD</h4>
 
-  <p>Foi criada uma conta genérica no mongoDB para uso do banco de dados juntamente com mongoose para gerenciamento de model e bd. As configurações de conexão já se encontram no arquivo .env, então não é preciso nenhuma configuração de BD.</p>
+  <p>Foi criada uma conta genérica no mongoDB para uso do banco de dados juntamente com mongoose para gerenciamento de model e bd. As configurações de conexão já se encontram no arquivo .env, então não é preciso nenhuma configuração de BD. O id é gerado automaticamente pelo mongoDB, não precisando usar nenhuma lib pra gerar um hash.</p>
 
 <h4>🛠 Tecnologias</h4>
 
