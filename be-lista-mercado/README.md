@@ -28,6 +28,11 @@
   <p>READ-ALL: method: 'GET', para 'http://localhost:3001/produto'</p>
   <p>READ-ONE: method: 'GET', para 'http://localhost:3001/produto/:id'</p>
   <p>DELETE: method: 'DELETE', para 'http://localhost:3001/produto/:id'</p>
+  <p>Para inserir informação como objeto json.</p>
+  <code>{
+    "item": "batata",
+    "preco": 2
+  }</code>
 
 <h4>Sobre mongoBD</h4>
 
